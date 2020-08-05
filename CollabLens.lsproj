@@ -3,10 +3,10 @@
     "document_id": "06XZxPGfpZvGJyAXqqqs",
     "original_document_id": "TEg-ejzP6TxBlnyvRGJ3",
     "version": "24",
-    "lastChanged": "1596595519560",
+    "lastChanged": "1596596426816",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
-    "videoPreviewUpdateTime": "2020-08-05T01:44:50.111Z",
+    "videoPreviewUpdateTime": "2020-08-05T02:46:59.536Z",
     "isReadOnly": "false",
     "isAutoSaved": "false",
     "studioVersion": {
@@ -1224,7 +1224,7 @@
                     },
                     {
                         "k": "7746",
-                        "v": "4cc53ae0d7cd3fc313bbcd5f44eec653"
+                        "v": "4f5cbc34af29f85aa0692871fbca36c9"
                     },
                     {
                         "k": "7754",
@@ -1270,9 +1270,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-08-04T19:44:24",
+                        "lastModified": "2020-08-04T19:45:18",
                         "name": "Public",
-                        "hash": "915456a59aaa1d4fe20d131c1c01e2d2",
+                        "hash": "388a6f01ccf401ae9a6101fcdddc81ed",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -1425,9 +1425,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-04T19:44:24",
+                                "lastModified": "2020-08-04T19:45:18",
                                 "name": "Soap Bubble.lsmat",
-                                "hash": "7d68f890c453f6e451a90d7b87dce50f",
+                                "hash": "4cc53ae0d7cd3fc313bbcd5f44eec653",
                                 "children": ""
                             },
                             {
