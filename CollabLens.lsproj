@@ -3,7 +3,7 @@
     "document_id": "06XZxPGfpZvGJyAXqqqs",
     "original_document_id": "TEg-ejzP6TxBlnyvRGJ3",
     "version": "24",
-    "lastChanged": "1596595043720",
+    "lastChanged": "1596595519560",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "2020-08-05T01:44:50.111Z",
@@ -133,8 +133,7 @@
                     "1592653891666117:31550",
                     "1592655077841913:139760",
                     "1593117826812209:84122",
-                    "1594741177733227:633045",
-                    "1596079710605745:51923"
+                    "1594741177733227:633045"
                 ]
             ]
         },
@@ -1225,7 +1224,7 @@
                     },
                     {
                         "k": "7746",
-                        "v": "f308d190425ad4dda974dfcf34868283"
+                        "v": "4cc53ae0d7cd3fc313bbcd5f44eec653"
                     },
                     {
                         "k": "7754",
@@ -1271,9 +1270,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-08-04T19:34:24",
+                        "lastModified": "2020-08-04T19:44:24",
                         "name": "Public",
-                        "hash": "bf36d910400a77c9cc79b8cbef59566b",
+                        "hash": "915456a59aaa1d4fe20d131c1c01e2d2",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -1426,9 +1425,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-08-04T19:34:24",
+                                "lastModified": "2020-08-04T19:44:24",
                                 "name": "Soap Bubble.lsmat",
-                                "hash": "3a46ef8430868fcafe73495864fb639e",
+                                "hash": "7d68f890c453f6e451a90d7b87dce50f",
                                 "children": ""
                             },
                             {
@@ -1950,8 +1949,13 @@
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1596309769264872:28450"
+                "resources": [
+                    {
+                        "uid": "1596080677732737:208276",
+                        "path_list": [
+                            "Soap Bubble"
+                        ]
+                    }
                 ]
             }
         },
